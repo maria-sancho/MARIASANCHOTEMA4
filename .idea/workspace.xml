@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43869355-3cad-4653-9fa5-b87528cd62e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MARIASANCHOTEMA4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ORIGINAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/REFCACTORIZACION.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1686596320174</updated>
     </task>
+    <task id="LOCAL-00001" summary="TEMA4">
+      <created>1686596477614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686596477614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEMA4" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEMA4" />
   </component>
 </project>
